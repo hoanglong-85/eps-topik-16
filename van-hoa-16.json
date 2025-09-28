@@ -1,0 +1,48 @@
+[
+  {
+    "title": {
+      "korean": "한국의 주거 형태",
+      "vietnamese": "Hình thái cư trú của Hàn Quốc"
+    },
+    "data": [
+      {
+        "korean": "한국에서는 어느 도시를 가더라도 아파트를 쉽게 볼 수 있습니다. 대규모 아파트 단지가 많고, 고층 아파트도 빠르게 늘고 있습니다. 국토교통부의 2022년 주거 실태 조사에 따르면, 아파트 거주 비율은 51.9%로 전체 가구의 절반이 넘습니다. 아파트는 생활이 편리하고 보안 시스템이 잘 갖추어져 있어 많은 사람들이 좋아합니다. 마트, 운동 시설 같은 편의 시설과 각급 학교가 가까운 곳에 있는 것도 아파트를 선호하는 이유 중 하나입니다.",
+        "vietnamese": "Ở Hàn Quốc, dù đi đến bất kỳ thành phố nào cũng có thể dễ dàng nhìn thấy chung cư. Có nhiều khu chung cư quy mô lớn, chung cư cao tầng cũng tăng nhanh. Theo \"Điều tra tình hình nhà ở năm 2022\" của Bộ Đất đai, Giao thông vận tải thì tỷ lệ cư trú chung cư là 51,9%, hơn một nửa tổng số hộ gia đình. Ở chung cư sinh hoạt thuận tiện, được trang bị hệ thống an ninh tốt nên nhiều người ưa chuộng. Việc các cơ sở tiện ích như siêu thị, cơ sở tập thể dục và các trường học các cấp nằm gần nhau cũng là một trong những lý do khiến họ thích căn hộ chung cư."
+      },
+      {
+        "korean": "이에 비해 단독 주택에 거주하는 비율은 전체 가구의 30%도 안 됩니다. 이처럼 단독 주택에 사는 가구의 비율은 낮지만 최근 노년층을 중심으로 자연 환경이 좋은 도시 근교에 전원주택을 짓고 생활하는 사람들은 조금씩 늘고 있습니다.",
+        "vietnamese": "Ngược lại, tỷ lệ sống trong nhà riêng chưa tới 30% tổng số hộ gia đình. Tỷ lệ hộ gia đình sống trong nhà riêng thấp như vậy, nhưng gần đây ngày càng có nhiều người xây nhà ở nông thôn và sinh hoạt ở vùng ngoại ô thành phố có môi trường tự nhiên tốt, đối tượng này tập trung vào người già."
+      },
+      {
+        "korean": "이외에 보통 빌라라고 부르는 다세대주택이나 연립주택에 사는 가구도 전체의 약 10%를 차지하고 있습니다.",
+        "vietnamese": "Ngoài ra, các hộ sống trong nhà đa thế hệ, thường được gọi là \"villa\", cũng chiếm khoảng 10% tổng số."
+      },
+      {
+        "korean": "최근에는 1인 가구가 증가하면서 학교나 직장 근처의 원룸이나 오피스텔에 사는 젊은 사람들이 늘고 있습니다. 원룸이나 오피스텔은 침실이나 화장실, 주방이 한 공간에 있어 편리하고, 필수적인 가전제품이 구비되어 있는 경우가 많아 혼자 사는 사람들에게 인기가 좋습니다.",
+        "vietnamese": "Gần đây, với sự gia tăng hộ gia đình một người, ngày càng có nhiều người trẻ sống trong các phòng đơn hoặc căn hộ văn phòng. Phòng đơn hoặc căn hộ văn phòng có phòng ngủ, nhà vệ sinh hoặc bếp, trang bị các thiết bị gia dụng cần thiết và tiện lợi nên nhiều người thích sống một mình."
+      }
+    ],
+    "voca": {
+      "대규모": "Quy mô lớn",
+      "아파트 단지": "Khu chung cư",
+      "고층 아파트": "Chung cư cao tầng",
+      "빠르게 늘다": "Tăng nhanh",
+      "국토교통부": "Bộ Đất đai, Giao thông vận tải",
+      "주거 실태 조사": "Điều tra thực trạng cư trú",
+      "비율": "Tỷ lệ",
+      "전체": "Toàn thể",
+      "생활이 편리하다": "Cuộc sống thuận tiện",
+      "보안 시스템": "Hệ thống bảo an",
+      "각급 학교": "Các loại trường học, các cấp học",
+      "선호하다": "Ưa chuộng, yêu thích",
+      "단독 주택": "Nhà đơn lập, nhà riêng",
+      "거주하다": "Cư trú",
+      "노년층": "Lớp người cao tuổi",
+      "자연 환경": "Môi trường tự nhiên",
+      "도시 근교": "Ngoại ô thành phố",
+      "다세대주택": "Nhà đa thế hệ (nhà chung cư dạng thấp tầng)",
+      "연립주택": "Nhà liền kế",
+      "구비되다": "Được trang bị, được chuẩn bị"
+    }
+  }
+]

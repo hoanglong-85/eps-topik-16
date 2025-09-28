@@ -1,0 +1,53 @@
+[
+  {
+    "title": {
+      "korean": "한국인의 여가 생활",
+      "vietnamese": "Đời sống giải trí của người Hàn Quốc"
+    },
+    "data": [
+      {
+        "korean": "주 52시간 근무제가 정착되고 출퇴근 시간을 탄력적으로 선택할 수 있는 유연근무제가 확대되면서 한국인들의 여가 시간이 늘어나고 있습니다. 문화체육관광부(2023)에서 실시한 국민여가활동조사에 따르면, 한국인의 평균 여가 시간은 평일에는 3.6시간, 주말에는 5.5시간이라고 합니다. 한국인 10명 가운데 6명은 자신이 즐기는 문화 및 여가 생활에 만족하고 있는 것으로 나타났습니다. 또한 한국인들이 가장 많이 하는 여가 활동에 대해 조사한 결과, TV 시청이 60.8%로 가장 높게 나타났습니다. 산책 및 걷기가 43.5%, 모바일 콘텐츠 및 OTT 시청이 43.3%로 그 뒤를 이었습니다. 이어 잡담ㆍ통화하기(32.8%), 쇼핑·외식(26.3%), 인터넷 검색·영상 편집(25.3%), 친구와의 만남(22%)의 순이었습니다.",
+        "vietnamese": "Chế độ làm việc 52 giờ một tuần được thiết lập và chế độ làm việc linh hoạt cho phép lựa chọn thời gian đi làm đang làm tăng thời gian rảnh rỗi của người Hàn Quốc. Theo \"Điều tra hoạt động giải trí quốc gia\" do Bộ Văn hóa, Thể thao và Du lịch (2023) thực hiện, thời gian giải trí trung bình của người Hàn Quốc là 3,6 giờ vào các ngày trong tuần và 5,5 giờ vào cuối tuần. 6 trong số 10 người Hàn Quốc cho biết họ hài lòng với văn hóa và đời sống giải trí của mình. Ngoài ra, kết quả điều tra về các hoạt động giải trí cho thấy xem TV cao nhất với 60,8%, tiếp theo là đi dạo và đi bộ 43,5%, xem nội dung trên điện thoại/OTT 43,3%. Tiếp theo là \"nói chuyện phiếm, gọi điện\" (32,8%), \"mua sắm, ăn ngoài\" (26,3%), \"tìm kiếm trên mạng, chỉnh sửa video\" (25,3%), \"gặp gỡ bạn bè\" (22%)."
+      },
+      {
+        "korean": "한국에서 일과 삶의 조화로운 균형을 중시하는 사회적 분위기가 확산하면서 여가의 질을 높이려는 사람들의 관심 또한 높아지고 있습니다. 여가에 관한 전문 서적이 출간되기도 하고, 대학에 관련 학과가 개설되기도 하였습니다. 큰 부담 없이 여럿이 즐길 수 있는 파크골프나 풋살과 같은 다양한 스포츠 시설도 증설되고 있습니다.",
+        "vietnamese": "Ở Hàn Quốc, bầu không khí xã hội coi trọng cân bằng hài hòa giữa công việc và cuộc sống đang lan rộng, sự quan tâm của những người muốn nâng cao chất lượng giải trí cũng đang tăng lên. Sách chuyên môn về thời gian rảnh rỗi đã được xuất bản và các khoa liên quan cũng được mở tại các trường đại học. Các cơ sở thể thao đa dạng như Park Golf hay Futsal, nơi nhiều người có thể chơi mà không cần chi phí lớn, cũng đang được mở rộng."
+      }
+    ],
+    "voca": {
+      "근무제": "Chế độ làm việc",
+      "정착되다": "Được thiết lập",
+      "탄력적": "Linh hoạt",
+      "유연근무제": "Chế độ làm việc linh động",
+      "확대되다": "Được mở rộng",
+      "문화체육관광부": "Bộ Văn hóa Thể thao và Du lịch",
+      "실시하다": "Thực thi, tiến hành",
+      "따르다": "Theo, tuân theo",
+      "국민여가활동조사": "Khảo sát hoạt động giải trí của người dân",
+      "평균": "Bình quân, trung bình",
+      "여가 시간": "Thời gian giải trí",
+      "만족하다": "Hài lòng",
+      "나타내다": "Biểu hiện, thể hiện",
+      "조사한 결과": "Kết quả điều tra",
+      "TV 시청": "Xem TV",
+      "산책": "Đi dạo",
+      "걷기": "Đi bộ",
+      "모바일 콘텐츠": "Nội dung trên điện thoại",
+      "OTT 시청": "Xem OTT",
+      "잡담": "Chuyện phiếm",
+      "통화하다": "Gọi điện thoại",
+      "쇼핑": "Mua sắm",
+      "외식": "Ăn ở ngoài",
+      "인터넷 검색": "Tìm kiếm trên mạng",
+      "영상 편집": "Chỉnh sửa video",
+      "친구와의 만남": "Gặp gỡ bạn bè",
+      "조화롭다": "Hài hòa",
+      "균형": "Sự cân bằng",
+      "출간되다": "Được xuất bản",
+      "개설되다": "Được mở ra",
+      "파크골프": "Park Golf (một loại golf đơn giản)",
+      "풋살": "Bóng đá mini (futsal)",
+      "증설되다": "Được mở rộng thêm"
+    }
+  }
+]
