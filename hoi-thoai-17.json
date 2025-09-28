@@ -1,0 +1,104 @@
+
+[
+{
+  "audio": "hoi-thoai-17-1.mp3",
+  "hinhanh": "hoi-thoai-17-1.jpg",
+  "hoithoai": [
+    {
+      "speaker": "마두",
+      "korean": "아궁 씨, 이번 휴가 때 뭐 할 거예요?",
+      "vietnamese": "Agung, kỳ nghỉ này bạn sẽ làm gì?"
+    },
+    {
+      "speaker": "아궁",
+      "korean": "친구하고 부산에 여행을 갈 거예요.",
+      "vietnamese": "Mình sẽ đi du lịch Busan với bạn."
+    },
+    {
+      "speaker": "마두",
+      "korean": "그래요? 부산에 갈 때 뭘 타고 가요?",
+      "vietnamese": "Thật sao? Khi đi Busan bạn đi bằng gì?"
+    },
+    {
+      "speaker": "아궁",
+      "korean": "KTX를 탈 거예요.",
+      "vietnamese": "Mình sẽ đi bằng KTX."
+    },
+    {
+      "speaker": "마두",
+      "korean": "숙소는 예약했어요?",
+      "vietnamese": "Bạn đã đặt chỗ ở chưa?"
+    },
+    {
+      "speaker": "아궁",
+      "korean": "네, 싸고 좋은 호텔이 있어서 그 호텔을 예약했어요.",
+      "vietnamese": "Có, có một khách sạn rẻ và đẹp nên mình đã đặt khách sạn đó."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "아궁 씨는 이번 휴가에 뭐 할 거예요?",
+      "vietnamese_question": "Agung sẽ làm gì trong kỳ nghỉ này?",
+      "korean_answer": "친구하고 부산에 여행을 갈 거예요.",
+      "vietnamese_answer": "Sẽ đi du lịch Busan với bạn."
+    },
+    {
+      "korean_question": "아궁 씨는 부산에 갈 때 뭘 타고 갈 거예요?",
+      "vietnamese_question": "Agung sẽ đi Busan bằng gì?",
+      "korean_answer": "KTX를 탈 거예요.",
+      "vietnamese_answer": "Sẽ đi bằng KTX."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-17-2.mp3",
+  "hinhanh": "hoi-thoai-17-2.jpg",
+  "hoithoai":[
+    {
+      "speaker": "자야",
+      "korean": "왕민 씨, 제주도 여행은 어땠어요?",
+      "vietnamese": "Wangmin, chuyến du lịch Jejudo như thế nào?"
+    },
+    {
+      "speaker": "왕민",
+      "korean": "아주 좋았어요. 경치가 좋고 음식도 맛있었어요.",
+      "vietnamese": "Rất tốt. Cảnh đẹp và đồ ăn cũng ngon."
+    },
+    {
+      "speaker": "자야",
+      "korean": "제주도에서 뭐 했어요?",
+      "vietnamese": "Bạn đã làm gì ở Jejudo?"
+    },
+    {
+      "speaker": "왕민",
+      "korean": "해수욕장에 갔어요. 그리고 한라산 등산도 했어요.",
+      "vietnamese": "Mình đã đi tắm biển và leo núi Hallasan."
+    },
+    {
+      "speaker": "자야",
+      "korean": "저도 다음 휴가 때 가족하고 제주도에 가려고 해요.",
+      "vietnamese": "Mình cũng định đi Jejudo với gia đình vào kỳ nghỉ tới."
+    },
+    {
+      "speaker": "왕민",
+      "korean": "그래요? 해수욕장하고 한라산에 꼭 가세요. 정말 아름다워요.",
+      "vietnamese": "Thật sao? Nhất định hãy đi tắm biển và leo Hallasan. Rất đẹp."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "왕민 씨는 제주도에서 뭐 했어요?",
+      "vietnamese_question": "Wangmin đã làm gì ở Jejudo?",
+      "korean_answer": "해수욕장에 갔어요. 그리고 한라산 등산도 했어요.",
+      "vietnamese_answer": "Đi tắm biển và leo núi Hallasan."
+    },
+    {
+      "korean_question": "자야 씨는 다음 휴가에 무엇을 하려고 해요?",
+      "vietnamese_question": "Jaya dự định làm gì trong kỳ nghỉ tới?",
+      "korean_answer": "가족하고 제주도에 가려고 해요.",
+      "vietnamese_answer": "Đi Jejudo với gia đình."
+    }
+  ]
+ }
+ ]
+

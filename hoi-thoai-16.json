@@ -1,0 +1,89 @@
+
+[
+{
+  "audio": "hoi-thoai-16-1.mp3",
+  "hinhanh": "hoi-thoai-16-1.jpg",
+  "hoithoai":[
+    {
+      "speaker": "자야",
+      "korean": "다라 씨, 부탁이 있어요. 이번 주말에 나하고 같이 부동산에 가 주세요.",
+      "vietnamese": "Dara, mình có việc muốn nhờ. Cuối tuần này bạn đi cùng mình đến văn phòng bất động sản nhé."
+    },
+    {
+      "speaker": "다라",
+      "korean": "알겠어요. 그런데 부동산은 왜 가요?",
+      "vietnamese": "Được thôi. Nhưng tại sao lại đi bất động sản?"
+    },
+    {
+      "speaker": "자야",
+      "korean": "다음 달에 원룸 계약이 끝나요. 월세가 비싸서 이사하고 싶어요.",
+      "vietnamese": "Tháng sau hợp đồng phòng đơn của mình hết hạn. Tiền thuê đắt nên mình muốn chuyển nhà."
+    },
+    {
+      "speaker": "다라",
+      "korean": "그러면 우리 집 근처 부동산에 가요. 우리 집 근처가 월세가 싸요.",
+      "vietnamese": "Vậy thì chúng ta đi văn phòng bất động sản gần nhà mình nhé. Gần nhà mình tiền thuê rẻ."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "자야 씨는 언제 부동산에 갈 거예요?",
+      "vietnamese_question": "Jaya sẽ đi văn phòng bất động sản khi nào?",
+      "korean_answer": "이번 주말에 부동산에 갈 거예요.",
+      "vietnamese_answer": "Cuối tuần này sẽ đi văn phòng bất động sản."
+    },
+    {
+      "korean_question": "자야 씨는 왜 이사하고 싶어 해요?",
+      "vietnamese_question": "Tại sao Jaya muốn chuyển nhà?",
+      "korean_answer": "월세가 비싸서 이사하고 싶어요.",
+      "vietnamese_answer": "Vì tiền thuê đắt nên muốn chuyển nhà."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-16-2.mp3",
+  "hinhanh": "hoi-thoai-16-2.jpg",
+  "hoithoai":[
+    {
+      "speaker": "직원",
+      "korean": "어서 오세요. 어떻게 오셨어요?",
+      "vietnamese": "Chào mừng. Bạn đến để làm gì?"
+    },
+    {
+      "speaker": "칼로",
+      "korean": "원룸을 알아보고 싶어서 왔어요.",
+      "vietnamese": "Mình đến để tìm hiểu về phòng trọ nhỏ."
+    },
+    {
+      "speaker": "직원",
+      "korean": "지하철역 근처에 조용한 원룸이 하나 있어요.",
+      "vietnamese": "Có một phòng trọ yên tĩnh gần ga tàu điện ngầm."
+    },
+    {
+      "speaker": "칼로",
+      "korean": "월세가 얼마예요?",
+      "vietnamese": "Tiền thuê hàng tháng bao nhiêu?"
+    },
+    {
+      "speaker": "점원",
+      "korean": "오십만 원이에요. 조금 비싸지만 깨끗해요. 그리고 근처에 편의 시설이 많아서 좋아요.",
+      "vietnamese": "500,000 won. Hơi đắt nhưng sạch sẽ. Và gần đó có nhiều tiện nghi nên tốt."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "칼로 씨는 어디에 갔어요?",
+      "vietnamese_question": "Carlo đã đi đâu?",
+      "korean_answer": "원룸을 알아보러 갔어요.",
+      "vietnamese_answer": "Đi để tìm hiểu về phòng trọ nhỏ."
+    },
+    {
+      "korean_question": "직원은 칼로 씨에게 어떤 원룸을 소개해 줬어요?",
+      "vietnamese_question": "Nhân viên đã giới thiệu loại phòng trọ nào cho Carlo?",
+      "korean_answer": "지하철역 근처에 조용한 원룸을 소개해 줬어요.",
+      "vietnamese_answer": "Giới thiệu một phòng trọ yên tĩnh gần ga tàu điện ngầm."
+    }
+  ]
+ }
+ ]
+

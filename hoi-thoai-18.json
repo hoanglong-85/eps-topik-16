@@ -1,0 +1,104 @@
+
+[
+{
+  "audio": "hoi-thoai-18-1.mp3",
+  "hinhanh": "hoi-thoai-18-1.jpg",
+  "hoithoai": [
+    {
+      "speaker": "왕민",
+      "korean": "자야 씨는 취미가 뭐예요?",
+      "vietnamese": "Jaya, sở thích của bạn là gì?"
+    },
+    {
+      "speaker": "자야",
+      "korean": "제 취미는 등산이에요. 왕민 씨는 시간이 있을 때 뭐 해요?",
+      "vietnamese": "Sở thích của mình là leo núi. Wangmin, khi rảnh bạn làm gì?"
+    },
+    {
+      "speaker": "왕민",
+      "korean": "전 영화 보는 것을 좋아해서 영화관에 자주 가요.",
+      "vietnamese": "Mình thích xem phim nên thường đi rạp chiếu phim."
+    },
+    {
+      "speaker": "자야",
+      "korean": "저도 영화 보는 것을 좋아해요.",
+      "vietnamese": "Mình cũng thích xem phim."
+    },
+    {
+      "speaker": "왕민",
+      "korean": "그럼 자야 씨도 영화관에 자주 가요?",
+      "vietnamese": "Vậy Jaya cũng thường đi rạp chiếu phim chứ?"
+    },
+    {
+      "speaker": "자야",
+      "korean": "아니요, 저는 보통 집에서 인터넷으로 영화를 봐요.",
+      "vietnamese": "Không, mình thường xem phim ở nhà qua internet."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "왕민 씨는 취미가 뭐예요?",
+      "vietnamese_question": "Sở thích của Wangmin là gì?",
+      "korean_answer": "영화 보는 것을 좋아해요.",
+      "vietnamese_answer": "Thích xem phim."
+    },
+    {
+      "korean_question": "자야 씨는 보통 영화관에서 영화를 봐요?",
+      "vietnamese_question": "Jaya thường xem phim ở rạp chiếu phim không?",
+      "korean_answer": "아니요, 보통 집에서 인터넷으로 봐요.",
+      "vietnamese_answer": "Không, thường xem phim ở nhà qua internet."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-18-2.mp3",
+  "hinhanh": "hoi-thoai-18-2.jpg",
+  "hoithoai":[
+    {
+      "speaker": "민수",
+      "korean": "아궁 씨, 무슨 운동을 좋아해요?",
+      "vietnamese": "Agung, bạn thích môn thể thao gì?"
+    },
+    {
+      "speaker": "아궁",
+      "korean": "저는 축구를 좋아해요. 민수 씨는요?",
+      "vietnamese": "Mình thích bóng đá. Còn bạn Minsu?"
+    },
+    {
+      "speaker": "민수",
+      "korean": "저도 축구를 좋아해요. 그래서 토요일마다 동호회 친구들하고 같이 축구를 해요.",
+      "vietnamese": "Mình cũng thích bóng đá. Vì vậy mỗi thứ Bảy mình chơi bóng cùng các bạn trong câu lạc bộ."
+    },
+    {
+      "speaker": "아궁",
+      "korean": "그래요? 저도 같이 하고 싶어요.",
+      "vietnamese": "Thật sao? Mình cũng muốn tham gia."
+    },
+    {
+      "speaker": "민수",
+      "korean": "그럼 이번 주말에 같이 축구할까요?",
+      "vietnamese": "Vậy cuối tuần này mình cùng chơi bóng không?"
+    },
+    {
+      "speaker": "아궁",
+      "korean": "네, 좋아요. 이번 주말에 만나요.",
+      "vietnamese": "Được, tuyệt. Hẹn gặp cuối tuần này."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "아궁 씨는 무슨 운동을 좋아해요?",
+      "vietnamese_question": "Agung thích môn thể thao gì?",
+      "korean_answer": "축구를 좋아해요.",
+      "vietnamese_answer": "Thích bóng đá."
+    },
+    {
+      "korean_question": "민수 씨와 아궁 씨는 이번 주말에 무엇을 할 거예요?",
+      "vietnamese_question": "Minsu và Agung sẽ làm gì vào cuối tuần này?",
+      "korean_answer": "같이 축구를 할 거예요.",
+      "vietnamese_answer": "Sẽ chơi bóng cùng nhau."
+    }
+  ]
+ }
+ ]
+
