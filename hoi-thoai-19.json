@@ -1,0 +1,99 @@
+
+[
+{
+  "audio": "hoi-thoai-19-1.mp3",
+  "hinhanh": "hoi-thoai-19-1.jpg",
+  "hoithoai": [
+    {
+      "speaker": "자야",
+      "korean": "와, 이게 무슨 음식이에요? 다라 씨가 만들었어요?",
+      "vietnamese": "Wow, món này là gì vậy? Dara làm à?"
+    },
+    {
+      "speaker": "다라",
+      "korean": "네, 불고기예요. 한번 먹어 보세요.",
+      "vietnamese": "Đúng, đây là bulgogi. Thử đi."
+    },
+    {
+      "speaker": "자야",
+      "korean": "불고기 요리법을 어디에서 배웠어요?",
+      "vietnamese": "Bạn học cách nấu bulgogi ở đâu?"
+    },
+    {
+      "speaker": "다라",
+      "korean": "요리 교실에서 배웠어요. 불고기 맛이 어때요? 좀 싱거워요?",
+      "vietnamese": "Mình học ở lớp nấu ăn. Bulgogi có vị thế nào? Hơi nhạt không?"
+    },
+    {
+      "speaker": "자야",
+      "korean": "아니요, 안 싱거워요. 아주 맛있어요.",
+      "vietnamese": "Không, không nhạt. Rất ngon."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "다라 씨는 불고기 만드는 것을 어디에서 배웠어요?",
+      "vietnamese_question": "Dara học cách nấu bulgogi ở đâu?",
+      "korean_answer": "요리 교실에서 배웠어요.",
+      "vietnamese_answer": "Học ở lớp nấu ăn."
+    },
+    {
+      "korean_question": "다라 씨가 만든 불고기 맛이 어때요?",
+      "vietnamese_question": "Bulgogi do Dara làm có vị thế nào?",
+      "korean_answer": "아주 맛있어요.",
+      "vietnamese_answer": "Rất ngon."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-19-2.mp3",
+  "hinhanh": "hoi-thoai-19-2.jpg",
+  "hoithoai":[
+    {
+      "speaker": "왕민",
+      "korean": "프엉 씨는 요리하는 것을 좋아해요?",
+      "vietnamese": "Phuong, bạn có thích nấu ăn không?"
+    },
+    {
+      "speaker": "프엉",
+      "korean": "네, 요리하는 게 취미예요.",
+      "vietnamese": "Có, nấu ăn là sở thích của tôi."
+    },
+    {
+      "speaker": "왕민",
+      "korean": "무슨 음식을 잘 만들어요?",
+      "vietnamese": "Bạn nấu món gì ngon?"
+    },
+    {
+      "speaker": "프엉",
+      "korean": "저는 떡볶이를 잘 만들어요. 그래서 떡볶이를 자주 만들어서 먹어요.",
+      "vietnamese": "Tôi nấu tteokbokki ngon. Vì vậy tôi thường nấu và ăn tteokbokki."
+    },
+    {
+      "speaker": "왕민",
+      "korean": "떡볶이는 어떻게 만들어요?",
+      "vietnamese": "Bạn làm tteokbokki như thế nào?"
+    },
+    {
+      "speaker": "프엉",
+      "korean": "떡에 채소하고 양념을 넣고 끓여요. 저는 떡볶이에 라면도 넣어요.",
+      "vietnamese": "Cho bánh gạo, rau và gia vị vào rồi nấu. Tôi cũng cho mì ramen vào tteokbokki."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "프엉 씨는 취미가 뭐예요?",
+      "vietnamese_question": "Sở thích của Phuong là gì?",
+      "korean_answer": "요리하는 게 취미예요.",
+      "vietnamese_answer": "Nấu ăn là sở thích."
+    },
+    {
+      "korean_question": "프엉 씨는 떡볶이를 어떻게 만들어요?",
+      "vietnamese_question": "Phuong làm tteokbokki như thế nào?",
+      "korean_answer": "떡에 채소하고 양념을 넣고 끓여요. 라면도 넣어요.",
+      "vietnamese_answer": "Cho bánh gạo, rau và gia vị vào rồi nấu. Cũng cho mì ramen vào."
+    }
+  ]
+ }
+ ]
+

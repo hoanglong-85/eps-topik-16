@@ -1,0 +1,104 @@
+
+[
+{
+  "audio": "hoi-thoai-20-1.mp3",
+  "hinhanh": "hoi-thoai-20-1.jpg",
+  "hoithoai": [
+    {
+      "speaker": "프엉",
+      "korean": "왕민 씨, 지금 뭐 해요?",
+      "vietnamese": "Wangmin, bạn đang làm gì vậy?"
+    },
+    {
+      "speaker": "왕민",
+      "korean": "블로그에 글을 쓰고 있어요.",
+      "vietnamese": "Mình đang viết bài trên blog."
+    },
+    {
+      "speaker": "프엉",
+      "korean": "블로그가 있어요? 어떤 블로그예요?",
+      "vietnamese": "Bạn có blog à? Là blog như thế nào?"
+    },
+    {
+      "speaker": "왕민",
+      "korean": "한국 생활 소개 블로그예요. 고향 친구들한테 한국 생활을 소개해요.",
+      "vietnamese": "Là blog giới thiệu cuộc sống ở Hàn Quốc. Mình giới thiệu cuộc sống ở Hàn cho bạn bè ở quê."
+    },
+    {
+      "speaker": "프엉",
+      "korean": "블로그에 글을 자주 써요?",
+      "vietnamese": "Bạn có thường viết trên blog không?"
+    },
+    {
+      "speaker": "왕민",
+      "korean": "네, 시간이 있을 때마다 써요.",
+      "vietnamese": "Có, mình viết bất cứ khi nào có thời gian."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "왕민 씨는 지금 뭐 하고 있어요?",
+      "vietnamese_question": "Wangmin đang làm gì ngay bây giờ?",
+      "korean_answer": "블로그에 글을 쓰고 있어요.",
+      "vietnamese_answer": "Đang viết bài trên blog."
+    },
+    {
+      "korean_question": "왕민 씨는 블로그에 어떤 글을 써요?",
+      "vietnamese_question": "Wangmin viết loại bài gì trên blog?",
+      "korean_answer": "한국 생활을 소개하는 글을 써요.",
+      "vietnamese_answer": "Viết về cuộc sống ở Hàn Quốc."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-20-2.mp3",
+  "hinhanh": "hoi-thoai-20-2.jpg",
+  "hoithoai":[
+    {
+      "speaker": "진수",
+      "korean": "닛차난 씨도 SNS를 해요?",
+      "vietnamese": "Nitchanan, bạn cũng dùng mạng xã hội à?"
+    },
+    {
+      "speaker": "닛차난",
+      "korean": "네, 저도 SNS를 해요. SNS에 사진을 자주 올려요.",
+      "vietnamese": "Có, tôi cũng dùng SNS. Tôi thường đăng ảnh lên mạng xã hội."
+    },
+    {
+      "speaker": "진수",
+      "korean": "어떤 사진을 올려요?",
+      "vietnamese": "Bạn thường đăng loại ảnh gì?"
+    },
+    {
+      "speaker": "닛차난",
+      "korean": "저는 주로 맛집 사진을 올려요. 이게 제 SNS예요.",
+      "vietnamese": "Tôi chủ yếu đăng ảnh các quán ăn nổi tiếng. Đây là SNS của tôi."
+    },
+    {
+      "speaker": "진수",
+      "korean": "닛차난 씨 아이디 좀 가르쳐 줄래요? 사진을 보고 싶어요.",
+      "vietnamese": "Bạn có thể cho tôi ID được không? Tôi muốn xem ảnh của bạn."
+    },
+    {
+      "speaker": "닛차난",
+      "korean": "네, 좋아요. 진수 씨 아이디도 가르쳐 주세요.",
+      "vietnamese": "Được, được thôi. Bạn cũng cho tôi ID nhé."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "진수 씨와 닛차난 씨는 무엇에 대해 이야기해요?",
+      "vietnamese_question": "Jinsu và Nitchanan đang nói về điều gì?",
+      "korean_answer": "SNS와 사진 올리기에 대해 이야기해요.",
+      "vietnamese_answer": "Họ đang nói về mạng xã hội và việc đăng ảnh."
+    },
+    {
+      "korean_question": "닛차난 씨는 SNS에 어떤 사진을 주로 올려요?",
+      "vietnamese_question": "Nitchanan chủ yếu đăng ảnh gì trên mạng xã hội?",
+      "korean_answer": "주로 맛집 사진을 올려요.",
+      "vietnamese_answer": "Chủ yếu là ảnh các quán ăn nổi tiếng."
+    }
+  ]
+ }
+ ]
+
