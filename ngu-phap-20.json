@@ -1,0 +1,24 @@
+[{
+  "nguphap": "-고 있다 (진행)",
+  "loai": "동사 + -고 있다",
+  "ynghia": "Được thêm vào động từ để chỉ rằng hành động đang diễn ra hoặc tiếp tục xảy ra. Có thể dùng khi hành động lặp đi lặp lại trong một khoảng thời gian, bao gồm hiện tại.",
+  "vidu": [
+    {"cau": "마두 씨가 식당에서 점심을 먹고 있어요.", "nghia": "Madu đang ăn trưa ở nhà hàng."},
+    {"cau": "유수프 씨는 지금 일하고 있어요.", "nghia": "Yusuf đang làm việc ngay bây giờ."},
+    {"cau": "가: 지금 뭐 하고 있어요? 나: 회사에 가고 있어요.", "nghia": "A: Bây giờ bạn đang làm gì? B: Tôi đang đi đến công ty."},
+    {"cau": "동생은 학교에 다니고 있어요.", "nghia": "Em tôi đang đi học."}
+  ],
+  "luat": "Động từ + -고 있다 để diễn tả hành động đang diễn ra hoặc tiếp tục. Bao gồm cả hành động lặp đi lặp lại trong một khoảng thời gian."
+},
+{
+  "nguphap": "-(으)ㄹ래요",
+  "loai": "동사 + -(으)ㄹ래요",
+  "ynghia": "Được thêm vào động từ để diễn tả ý định của người nói. Thường dùng trong hội thoại không trang trọng giữa những người thân quen.",
+  "vidu": [
+    {"cau": "저는 책을 읽을래요.", "nghia": "Tôi sẽ đọc sách."},
+    {"cau": "디안 씨는 뭐 할래요?", "nghia": "Dian, bạn định làm gì?"},
+    {"cau": "피곤해서 집에 갈래요.", "nghia": "Vì mệt nên tôi sẽ về nhà."},
+    {"cau": "가: 저녁에 같이 한국 음식을 만들래요? 나: 네, 좋아요.", "nghia": "A: Tối nay chúng ta cùng nấu món Hàn Quốc nhé? B: Vâng, được."}
+  ],
+  "luat": "Động từ có 받침 → -을래요 (먹다 → 먹을래요), không có 받침 hoặc 받침 ㄹ → -ㄹ래요 (가다 → 갈래요, 만들다 → 만들래요). Dùng để bày tỏ ý định, chủ yếu trong hội thoại thân mật."
+}]

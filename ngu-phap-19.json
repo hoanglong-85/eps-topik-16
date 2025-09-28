@@ -1,0 +1,23 @@
+[{
+  "nguphap": "-아/어 보다",
+  "loai": "동사 + -아/어 보다",
+  "ynghia": "Được thêm vào động từ để chỉ việc thử làm một hành động nào đó. Khi khuyên người khác thử, thường dùng -아/어 보세요.",
+  "vidu": [
+    {"cau": "된장찌개가 조금 맵지만 맛있어요. 된장찌개를 만들어 보세요.", "nghia": "Món canh tương cay một chút nhưng ngon. Hãy thử nấu canh tương xem."},
+    {"cau": "이 게임이 정말 재미있어요. 한번 해 보세요.", "nghia": "Trò chơi này rất thú vị. Hãy thử chơi một lần nhé."},
+    {"cau": "가: 집을 구하는 것이 쉽지 않아요. 나: 그럼 부동산에 가 보세요.", "nghia": "A: Tìm nhà không dễ. B: Vậy thì hãy thử đến văn phòng bất động sản xem."}
+  ],
+  "luat": "Động từ có ㅏ/ㅗ → -아 보다 (가다 → 가 보다), động từ khác → -어 보다 (읽다 → 읽어 보다), động từ + 하다 → -해 보다 (전화하다 → 전화해 보다). Khi khuyên người khác dùng -아/어 보세요."
+},
+{
+  "nguphap": "-아서/어서 (순차)",
+  "loai": "동사 + -아서/어서",
+  "ynghia": "Được thêm vào động từ để chỉ rằng hành động phía trước xảy ra trước, và hành động phía sau xảy ra sau. Dùng khi hai hành động có quan hệ gần nhau. Nếu không có quan hệ gần, dùng -고.",
+  "vidu": [
+    {"cau": "옷을 벗어서 옷장에 걸었어요.", "nghia": "Tôi cởi quần áo và treo vào tủ."},
+    {"cau": "집에 와서 쉬었어요.", "nghia": "Tôi về nhà và nghỉ ngơi."},
+    {"cau": "김밥을 만들어서 친구들하고 먹을 거예요.", "nghia": "Tôi làm kimbap rồi sẽ ăn cùng bạn bè."},
+    {"cau": "가: 사무실은 어디에 있어요? 나: 2층으로 올라가서 오른쪽으로 가세요.", "nghia": "A: Văn phòng ở đâu? B: Hãy lên tầng 2 rồi đi về bên phải."}
+  ],
+  "luat": "Động từ có ㅏ/ㅗ → -아서 (가다 → 가서), động từ khác → -어서 (찍다 → 찍어서), động từ + 하다 → -해서 (도착하다 → 도착해서). Dùng khi hành động liên tiếp có quan hệ chặt chẽ."
+}]

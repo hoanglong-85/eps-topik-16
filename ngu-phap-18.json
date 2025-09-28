@@ -1,0 +1,25 @@
+[{
+  "nguphap": "-는 것",
+  "loai": "동사 + -는 것",
+  "ynghia": "Được thêm vào động từ để biến động từ thành danh từ, có thể dùng làm chủ ngữ, tân ngữ hoặc đối tượng của câu.",
+  "vidu": [
+    {"cau": "영화 보는 거 좋아해요.", "nghia": "Tôi thích xem phim."},
+    {"cau": "칼로 씨는 음악 듣는 것을 좋아해요.", "nghia": "Karlo thích nghe nhạc."},
+    {"cau": "옷을 다리는 것이 너무 어려워요.", "nghia": "Là quần áo rất khó."},
+    {"cau": "저는 한국 음식을 만드는 것이 재미있어요.", "nghia": "Tôi thấy việc nấu đồ ăn Hàn Quốc rất thú vị."},
+    {"cau": "저는 친구하고 여행하는 게 좋아요.", "nghia": "Tôi thích đi du lịch với bạn bè."}
+  ],
+  "luat": "Động từ + -는 것 → biến động từ thành danh từ. Có thể rút gọn: -는 것이 → -는 게, -는 것을 → -는 걸, -는 것이에요 → -는 거예요. Với động từ có tân ngữ, thường bỏ 을/를."
+},
+{
+  "nguphap": "-(으)ㄹ까요? / -아요/어요 (제안)",
+  "loai": "동사 + -(으)ㄹ까요? / -아요/어요",
+  "ynghia": "-아요/어요 dùng để đề nghị cùng làm gì đó hoặc đồng ý với đề nghị của người khác. -(으)ㄹ까요? dùng để đề xuất hoặc hỏi ý kiến của đối phương.",
+  "vidu": [
+    {"cau": "우리 같이 저녁을 먹어요.", "nghia": "Chúng ta cùng ăn tối nhé."},
+    {"cau": "내일 같이 점심 먹을까요?", "nghia": "Ngày mai chúng ta cùng ăn trưa nhé?"},
+    {"cau": "우리 주말에 뭐 할까요?", "nghia": "Cuối tuần chúng ta làm gì nhỉ?"},
+    {"cau": "가: 같이 저녁을 만들까요? 나: 네, 좋아요.", "nghia": "A: Chúng ta cùng nấu bữa tối nhé? B: Vâng, được."}
+  ],
+  "luat": "Động từ có 받침 → -을까요? (먹다 → 먹을까요?), không có 받침 hoặc 받침 ㄹ → -ㄹ까요? (가다 → 갈까요?, 만들다 → 만들까요?). -아요/어요 dùng trong câu đề nghị, đồng ý hành động cùng nhau."
+}]

@@ -1,0 +1,23 @@
+[{
+  "nguphap": "-고 싶다 / -고 싶어 하다",
+  "loai": "동사 + -고 싶다 / -고 싶어 하다",
+  "ynghia": "-고 싶다 được thêm vào động từ để biểu thị mong muốn hoặc ý muốn làm điều gì đó. Dùng với ngôi thứ nhất trong câu trần thuật và ngôi thứ hai trong câu nghi vấn. Khi muốn diễn tả mong muốn của ngôi thứ ba → dùng -고 싶어 하다.",
+  "vidu": [
+    {"cau": "원룸에서 살고 싶어요.", "nghia": "Muốn sống ở căn hộ một phòng."},
+    {"cau": "주말에 집에서 쉬고 싶어요.", "nghia": "Muốn nghỉ ở nhà vào cuối tuần."},
+    {"cau": "보증금이 싼 집을 구하고 싶어요.", "nghia": "Muốn tìm một căn nhà có tiền đặt cọc rẻ."},
+    {"cau": "아내는 고향에서 살고 싶어 해요.", "nghia": "Vợ muốn sống ở quê hương."}
+  ],
+  "luat": "Ngôi thứ nhất (평서문) và ngôi thứ hai (의문문) → -고 싶다. Ngôi thứ ba → -고 싶어 하다."
+},
+{
+  "nguphap": "-지만",
+  "loai": "동사/형용사 + -지만",
+  "ynghia": "Được thêm vào động từ hoặc tính từ để biểu thị nội dung trước và sau trái ngược nhau, nghĩa là nhưng.",
+  "vidu": [
+    {"cau": "우리 집은 월세가 비싸지만 전망이 좋아요.", "nghia": "Nhà tôi tiền thuê đắt nhưng có tầm nhìn đẹp."},
+    {"cau": "기숙사에서 편의점은 가깝지만 시장은 멀어요.", "nghia": "Ở ký túc xá, cửa hàng tiện lợi gần nhưng chợ thì xa."},
+    {"cau": "일요일이지만 출근해야 돼요.", "nghia": "Mặc dù là Chủ nhật nhưng tôi phải đi làm."}
+  ],
+  "luat": "Đặt sau động từ hoặc tính từ để nối hai mệnh đề trái ngược nhau."
+}]

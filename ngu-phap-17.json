@@ -1,0 +1,23 @@
+[{
+  "nguphap": "-(으)ㄹ 때",
+  "loai": "동사/형용사/명사 + -(으)ㄹ 때",
+  "ynghia": "Được thêm vào động từ, tính từ hoặc danh từ để chỉ thời điểm xảy ra một việc gì đó hoặc khoảng thời gian hành động đó diễn ra.",
+  "vidu": [
+    {"cau": "시간이 있을 때 여행을 가요.", "nghia": "Khi có thời gian, tôi đi du lịch."},
+    {"cau": "제주도에 갈 때 비행기를 타요.", "nghia": "Khi đi Jeju, tôi đi máy bay."},
+    {"cau": "음식을 만들 때 기분이 좋아요.", "nghia": "Khi nấu ăn, tôi cảm thấy vui."},
+    {"cau": "휴가 때 부산에 갈 거예요.", "nghia": "Khi nghỉ lễ, tôi sẽ đi Busan."}
+  ],
+  "luat": "Động từ có 받침 → -을 때, không có 받침 hoặc 받침 ㄹ → -ㄹ 때. Khi dùng với danh từ chỉ thời gian, không dùng với 주말, 요일, 오전, 오후."
+},
+{
+  "nguphap": "-(으)려고 하다",
+  "loai": "동사 + -(으)려고 하다",
+  "ynghia": "Được thêm vào động từ để biểu thị ý định hoặc dự định thực hiện một hành động nào đó.",
+  "vidu": [
+    {"cau": "저는 휴가 때 책을 많이 읽으려고 해요.", "nghia": "Tôi định đọc nhiều sách trong kỳ nghỉ."},
+    {"cau": "저는 내년에 이사하려고 해요.", "nghia": "Tôi định chuyển nhà vào năm tới."},
+    {"cau": "저녁에 불고기를 만들려고 해요.", "nghia": "Tôi định nấu bulgogi vào buổi tối."}
+  ],
+  "luat": "Động từ có 받침 → -으려고 하다 (읽다 → 읽으려고 하다), không có 받침 hoặc 받침 ㄹ → -려고 하다 (가다 → 가려고 하다, 만들다 → 만들려고 하다)."
+}]
