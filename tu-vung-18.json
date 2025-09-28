@@ -1,0 +1,217 @@
+[
+    {
+        "korean": " 취미 ",
+        "vietnamese": " Sở thích\r",
+        "audio": "tu-vung-18-1.mp3"
+    },
+    {
+        "korean": " 실내 ",
+        "vietnamese": " Trong phòng\r",
+        "audio": "tu-vung-18-2.mp3"
+    },
+    {
+        "korean": " 실외 ",
+        "vietnamese": " Ngoài phòng\r",
+        "audio": "tu-vung-18-3.mp3"
+    },
+    {
+        "korean": " 독서하다 ",
+        "vietnamese": " Đọc sách\r",
+        "audio": "tu-vung-18-4.mp3"
+    },
+    {
+        "korean": " 외국어를 배우다 ",
+        "vietnamese": " Học ngoại ngữ\r",
+        "audio": "tu-vung-18-5.mp3"
+    },
+    {
+        "korean": " 음악을 듣다 ",
+        "vietnamese": " Nghe nhạc\r",
+        "audio": "tu-vung-18-6.mp3"
+    },
+    {
+        "korean": " 노래하다 ",
+        "vietnamese": " Hát\r",
+        "audio": "tu-vung-18-7.mp3"
+    },
+    {
+        "korean": " 영화를 보다 ",
+        "vietnamese": " Xem phim\r",
+        "audio": "tu-vung-18-8.mp3"
+    },
+    {
+        "korean": " 그림을 그리다 ",
+        "vietnamese": " Vẽ tranh\r",
+        "audio": "tu-vung-18-9.mp3"
+    },
+    {
+        "korean": " 기타를 치다 ",
+        "vietnamese": " Chơi ghi ta\r",
+        "audio": "tu-vung-18-10.mp3"
+    },
+    {
+        "korean": " 피아노를 치다 ",
+        "vietnamese": " Chơi piano\r",
+        "audio": "tu-vung-18-11.mp3"
+    },
+    {
+        "korean": " 춤을 추다 ",
+        "vietnamese": " Nhảy\r",
+        "audio": "tu-vung-18-12.mp3"
+    },
+    {
+        "korean": " 낚시하다 ",
+        "vietnamese": " Câu cá\r",
+        "audio": "tu-vung-18-13.mp3"
+    },
+    {
+        "korean": " 여행하다 ",
+        "vietnamese": " Đi du lịch\r",
+        "audio": "tu-vung-18-14.mp3"
+    },
+    {
+        "korean": " 등산하다 ",
+        "vietnamese": " Leo núi\r",
+        "audio": "tu-vung-18-15.mp3"
+    },
+    {
+        "korean": " 사진을 찍다 ",
+        "vietnamese": " Chụp ảnh\r",
+        "audio": "tu-vung-18-16.mp3"
+    },
+    {
+        "korean": " 운동 경기를 보다 ",
+        "vietnamese": " Xem trận đấu thể thao\r",
+        "audio": "tu-vung-18-17.mp3"
+    },
+    {
+        "korean": " 콘서트를 보다 ",
+        "vietnamese": " Xem buổi hòa nhạc\r",
+        "audio": "tu-vung-18-18.mp3"
+    },
+    {
+        "korean": " 힘들다 ",
+        "vietnamese": " Vất vả\r",
+        "audio": "tu-vung-18-19.mp3"
+    },
+    {
+        "korean": " 살다 ",
+        "vietnamese": " Sống\r",
+        "audio": "tu-vung-18-20.mp3"
+    },
+    {
+        "korean": " 그리다 ",
+        "vietnamese": " Vẽ\r",
+        "audio": "tu-vung-18-21.mp3"
+    },
+    {
+        "korean": " 찍다 ",
+        "vietnamese": " Chụp, đóng, dập\r",
+        "audio": "tu-vung-18-22.mp3"
+    },
+    {
+        "korean": " 듣다 ",
+        "vietnamese": " Nghe\r",
+        "audio": "tu-vung-18-23.mp3"
+    },
+    {
+        "korean": " 자주 ",
+        "vietnamese": " Thường xuyên\r",
+        "audio": "tu-vung-18-24.mp3"
+    },
+    {
+        "korean": " 주로 ",
+        "vietnamese": " Chủ yếu\r",
+        "audio": "tu-vung-18-25.mp3"
+    },
+    {
+        "korean": " 인터넷 ",
+        "vietnamese": " Internet\r",
+        "audio": "tu-vung-18-26.mp3"
+    },
+    {
+        "korean": " 콘서트 ",
+        "vietnamese": " Buổi hòa nhạc\r",
+        "audio": "tu-vung-18-27.mp3"
+    },
+    {
+        "korean": " 그림 ",
+        "vietnamese": " Bức tranh\r",
+        "audio": "tu-vung-18-28.mp3"
+    },
+    {
+        "korean": " 음악 ",
+        "vietnamese": " Âm nhạc\r",
+        "audio": "tu-vung-18-29.mp3"
+    },
+    {
+        "korean": " 축구 ",
+        "vietnamese": " Bóng đá\r",
+        "audio": "tu-vung-18-30.mp3"
+    },
+    {
+        "korean": " 농구 ",
+        "vietnamese": " Bóng rổ\r",
+        "audio": "tu-vung-18-31.mp3"
+    },
+    {
+        "korean": " 야구 ",
+        "vietnamese": " Bóng chày\r",
+        "audio": "tu-vung-18-32.mp3"
+    },
+    {
+        "korean": " 수영 ",
+        "vietnamese": " Bơi\r",
+        "audio": "tu-vung-18-33.mp3"
+    },
+    {
+        "korean": " 조깅 ",
+        "vietnamese": " Chạy bộ\r",
+        "audio": "tu-vung-18-34.mp3"
+    },
+    {
+        "korean": " 테니스 ",
+        "vietnamese": " Tennis\r",
+        "audio": "tu-vung-18-35.mp3"
+    },
+    {
+        "korean": " 배드민턴 ",
+        "vietnamese": " Cầu lông\r",
+        "audio": "tu-vung-18-36.mp3"
+    },
+    {
+        "korean": " 볼링 ",
+        "vietnamese": " Bowling\r",
+        "audio": "tu-vung-18-37.mp3"
+    },
+    {
+        "korean": " 골프 ",
+        "vietnamese": " Golf\r",
+        "audio": "tu-vung-18-38.mp3"
+    },
+    {
+        "korean": " 치다 ",
+        "vietnamese": " Đánh, gảy, vỗ\r",
+        "audio": "tu-vung-18-39.mp3"
+    },
+    {
+        "korean": " 스케이트 ",
+        "vietnamese": " Trượt băng\r",
+        "audio": "tu-vung-18-40.mp3"
+    },
+    {
+        "korean": " 스키 ",
+        "vietnamese": " Trượt tuyết\r",
+        "audio": "tu-vung-18-41.mp3"
+    },
+    {
+        "korean": " 자전거 ",
+        "vietnamese": " Xe đạp\r",
+        "audio": "tu-vung-18-42.mp3"
+    },
+    {
+        "korean": " 동호회 ",
+        "vietnamese": " Câu lạc bộ",
+        "audio": "tu-vung-18-43.mp3"
+    }
+]
